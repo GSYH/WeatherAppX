@@ -31,10 +31,5 @@ This part of the app is still being improved for better personalization and clea
 - `WeatherWidget/`: widget extension code.
 - `WeatherApp/`: additional app module/prototype code.
 
-## Run locally
-1. Open the Xcode project at `WeatherAppX/WeatherAppX.xcodeproj`.
-2. Select the `WeatherAppX` scheme.
-3. Build and run on simulator or device.
-
 ## Status
 This is an active development project. Feedback on the outfit recommendation behavior is welcome.
