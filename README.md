@@ -8,6 +8,9 @@ I am actively developing a clothing advice algorithm that turns live weather dat
 - Provides weather-aware clothing guidance based on temperature, wind, humidity, and precipitation.
 - Includes widget support and shared weather logic in `WeatherCore`.
 
+## Data source
+- Weather API data is sourced from the U.S. National Weather Service (NWS): `https://api.weather.gov`.
+
 ## Clothing Advice Algorithm (in progress)
 Current recommendation logic is in:
 - `WeatherAppX/OutfitRecommendationEngine.swift`
